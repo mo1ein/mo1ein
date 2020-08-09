@@ -1,4 +1,28 @@
-### Hi there 👋
+### Hi there 👋 I'm :
+```
+ __  __            _       
+|  \/  | ___   ___(_)_ __  
+| |\/| |/ _ \ / _ \ | '_ \ 
+| |  | | (_) |  __/ | | | |
+|_|  |_|\___/ \___|_|_| |_|
+                           
+
+  _____________________________________________
+ /                                             \
+| I intresting algorithms,Data,C++,Python,linux |
+| and anything that can make me happy =))       |
+ \                                             /
+  =============================================
+                                                  \
+                                                   \
+                                                     ^__^                             
+                                                     (oo)\_______                   
+                                                     (__)\       )\/\             
+                                                         ||----w |           
+                                                         ||     ||  
+                                                         
+                                                         
+```
 
 <!--
 **mo1ein/mo1ein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
