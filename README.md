@@ -8,11 +8,11 @@
                            
 
   _____________________________________________
- /                                             \
-| I intresting algorithms,Data,C++,Python,linux |
-| and anything that can make me happy =))       |
- \                                             /
-  =============================================
+ /                                               \
+| I interesting algorithms,Data,C++,Python,linux  |
+| and anything that can make me happy =))         |
+ \                                               /
+   =============================================
                                                   \
                                                    \
                                                      ^__^                             
