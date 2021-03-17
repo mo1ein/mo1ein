@@ -1,28 +1,24 @@
-### Hi there 👋 I'm :
-```
- __  __            _       
-|  \/  | ___   ___(_)_ __  
-| |\/| |/ _ \ / _ \ | '_ \ 
-| |  | | (_) |  __/ | | | |
-|_|  |_|\___/ \___|_|_| |_|
-                           
 
-  _____________________________________________
- /                                               \
-| I interesting algorithms,Data,C++,Python,linux  |
-| and anything that can make me happy =))         |
- \                                               /
-   =============================================
-                                                  \
-                                                   \
-                                                     ^__^                             
-                                                     (oo)\_______                   
-                                                     (__)\       )\/\             
-                                                         ||----w |           
-                                                         ||     ||  
-                                                         
-                                                         
+### Hi there 👋
 ```
+   __________________________________________________
+ /                                                    \
+|  I interesting algorithms, Data, C++, Python, linux  |
+|  and anything that can make me happy =))             |
+ \                                                    /
+   =================================================
+                                                    \ 
+                                                     \
+                                                       ^__^                             
+                                                       (oo)\_______                   
+                                                       (__)\       )\/\             
+                                                           ||----w |           
+                                                           ||     ||                                                    
+```
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mo1ein&include_all_commits=true&count_private=true&show_icons=true&theme=dark&hide=stars,issues" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo1ein&layout=compact" />
 
 <!--
 **mo1ein/mo1ein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,3 +34,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
