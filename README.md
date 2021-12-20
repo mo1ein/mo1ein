@@ -3,8 +3,8 @@
 ```
    __________________________________________________
  /                                                    \
-|  I interesting algorithms, Data, C++, Python, linux  |
-|  and anything that can make me happy =))             |
+|  Hi! I'm Moein. Still LEARNING...                    |
+|                                                      |
  \                                                    /
    =================================================
                                                     \ 
@@ -16,8 +16,13 @@
                                                            ||     ||                                                    
 ```
 
+<p align="center">
+<a href="https://github.com/mo1ein">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mo1ein&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mo1ein&layout=compact&langs_count=8&theme=nord"/>
+</a>
+</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mo1ein&include_all_commits=true&count_private=true&show_icons=true&theme=dark" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo1ein&layout=compact" />
 
 <!--
 **mo1ein/mo1ein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
