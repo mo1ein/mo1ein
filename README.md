@@ -1,25 +1,7 @@
 
 <p align="center">
-![gopher](gifs/g.gif)
+<img src="https://github.com/mo1ein/mo1ein/blob/master/gifs/g.gif?raw=true"/>
 <br />
-<a href="https://github.com/mo1ein">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mo1ein&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mo1ein&layout=compact&langs_count=8&theme=nord"/>
-</a>
 </p>
-
-
-<!--
-**mo1ein/mo1ein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
