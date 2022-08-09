@@ -1,22 +1,7 @@
 
-### Hi there 👋
-```
-   __________________________________________________
- /                                                    \
-|  Hi! I'm Moein. Still LEARNING...                    |
-|                                                      |
- \                                                    /
-   =================================================
-                                                    \ 
-                                                     \
-                                                       ^__^                             
-                                                       (oo)\_______                   
-                                                       (__)\       )\/\             
-                                                           ||----w |           
-                                                           ||     ||                                                    
-```
-
 <p align="center">
+![gopher](gifs/g.gif)
+<br />
 <a href="https://github.com/mo1ein">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mo1ein&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mo1ein&layout=compact&langs_count=8&theme=nord"/>
@@ -38,4 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
