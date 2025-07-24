@@ -1,1 +1,1 @@
-<a href="https://stackoverflow.com/users/12727539/mo1ein">stackoverflow</a>
+You’re goddamn right! I can code. Say my name and **refer** me to companies looking for devs! :D
