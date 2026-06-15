@@ -50,5 +50,5 @@ You can find my PRs [here](https://github.com/pulls/search?q=is%3Apr+is%3Amerged
 ---
 
 <div align="center">
-<sub>Always open to interesting problems · <a href="mailto:moeinn.com@gmail.com">Let's talk</a></sub>
+<p>Always open to interesting problems · <a href="mailto:moeinn.com@gmail.com">Let's talk</a></p>
 </div>
