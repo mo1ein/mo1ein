@@ -7,9 +7,9 @@ I like making computers do useful things so humans don't have to do them manuall
 > — Edsger W. Dijkstra
 
 [![Email](https://img.shields.io/badge/Email-moeinn.com@gmail.com-D14836?style=flat&logo=gmail)](mailto:moeinn.com@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-moeinhalvaei-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/moeinhalvaei)
-[![Portfolio](https://img.shields.io/badge/Portfolio-moein-000000?style=flat&logo=vercel&logoColor=white)](https://moein.itsfolio.tech)
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-mo1ein-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/mo1ein)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/moeinhalvaei)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://moein.itsfolio.tech)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/mo1ein)
 
 
 You can find my PRs [here](https://github.com/pulls/search?q=is%3Apr+is%3Amerged+is%3Apublic+author%3Amo1ein+-user%3Amo1ein+sort%3Aupdated-desc).
