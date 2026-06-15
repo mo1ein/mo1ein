@@ -1,5 +1,7 @@
 #### Hi, I'm Moein 👋
 
+> /moʔiːn hælvæːjiː/
+
 A software engineer who enjoys turning complicated problems into boringly reliable systems.  
 I like making computers do useful things so humans don't have to do them manually.
 
